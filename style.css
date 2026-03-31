@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.titulo {
+    font-family: "Bitcount Prop Single Ink", system-ui;;
+}
+
+header {
+    height: 80px;
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    text-align: center;
+}
+
+.container {
+    border: 1px solid black; 
+    text-align: center;
+    background-color: rgb(223, 223, 223);
+    margin: 100px auto;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.imgGoogle {
+    height: 50px;
+    width: 50px;
+}
+
+.imgMensagem {
+    height: 30px;
+    width: 30px;
+}
+
+footer {
+    height: 80px;
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 430px;
+}
+
+.corpo {
+    background-color: brown;
+    color: white;
+}
+
+.botao {
+    cursor: pointer;
+}
